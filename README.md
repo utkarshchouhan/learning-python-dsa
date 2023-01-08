@@ -2,6 +2,7 @@
 This repository contains python programs with solution.
 Menu
 > Mathematics Problems
+- Multiple problems have been added
 > List
 > Recursion
 > Searching

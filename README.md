@@ -4,5 +4,6 @@ Menu
 > Mathematics Problems
 - Multiple problems have been added
 > List
+Solutions added
 > Recursion
 > Searching

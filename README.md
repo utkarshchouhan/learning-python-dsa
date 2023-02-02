@@ -8,3 +8,4 @@ Menu
 Solutions added
 > Recursion
 > Searching
+> Multiple maths problems
